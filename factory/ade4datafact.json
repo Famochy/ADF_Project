@@ -1,0 +1,9 @@
+{
+	"name": "ade4datafact",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89f7b330-eb45-4005-a68e-5c8446719b71",
+		"tenantId": "8f11c6f4-648e-4c0c-bb99-96e8408a8e2a"
+	}
+}
